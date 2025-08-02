@@ -50,18 +50,17 @@ OK>v8.bxgbnet.com								https://v8.bxgbnet.com/sdv8/202408/06/4mHudRQy9014/vide
 豪华hh>play.hhuus.com							https://play.hhuus.com/play/oeEjMxWa/index.m3u8
 闪电sd>v10.fentvoss.com ok v10.youkuoss.com ok	https://v8.fentvoss.com/sdv8/202408/06/4mHudRQy9014/video/index.m3u8 
 快播kb>											
-索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com	https://v8.qrssv.com/202408/06/4mHudRQy9014/video/index.m3u8
+索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com	https://v8.qrssv.com/202408/06/4mHudRQy9014/video/index.m3u8 https://v13.yuglf.com/202507/26/jFBbGz1uVj19/video/2000k_1080/hls/index.m3u8
 光速gs>v.gsuus.com								https://v.gsuus.com/play/9aAVG19b/index.m3u8 https://v.gsuus.com/play/9b6Z9pQb/index.m3u8
 樱花yh>sod12.xmyysw.com							https://vod12.wgslsw.com/20240813/V1DkttYWcR74/index.m3u8 
 八戒bj>c3.monidai.com							https://c2.monidai.com/20220814/Jt1LCWsO/index.m3u8 https://v1.hdslb.pro/20240614/arfJgcQg/index.m3u8
 速播sb>vod.subokk.com							https://play.subokk.com/play/6dBWJ6Qe/index.m3u8 
-无尽wj>v8.kuaioss.com top.letvoss.com			https://v7.tlkqc.com/wjv7/202407/31/j3c1M8cJbB79/video/index.m3u8 https://v5.tlkqc.com/wjv5/202409/27/T5f08Y2ryi77/video/index.m3u8
+无尽wj>v8.kuaioss.com top.letvoss.com			https://v7.tlkqc.com/wjv7/202407/31/j3c1M8cJbB79/video/index.m3u8 https://v12.gggread.com/wjv12/202507/26/bsDFLXLBf984/video/1000k_720/hls/index.m3u8
 红牛hn>hnzy.bfvvs.com 							https://hn.bfvvs.com/play/vbmJymEd/index.m3u8
 牛牛nn>											https://v8.xingchongwang.com/yyv8/202408/06/4mHudRQy9014/video/index.m3u8
 新浪xl>bf.xluuss.com								https://bf.xluuss.com https://play.xluuss.com/play/xboLyoAd/index.m3u8
 快车kc>vod2.pptvoss.com							https://v12.longhengtea.com https://v8.longshengtea.com/yyv8/202409/27/ufjepWW7TE14/video/index.m3u8
 极速js>v.jisubf.com								https://v.jisubf.com https://vv.jisuzyv.com/play/5eV6QD9e/index.m3u8
-极映jy>hd.ijycnd.com								https://hd.ijycnd.com/play/mepM2pXa/index.m3u8
 金鹰jy>hd.ijycnd.com								https://hd.ijycnd.com
 虎牙hy>1080p.huyall.com							https://1080p.huyall.com/play/DbDgL86a/index.m3u8 
 最大zd>v4.mstopq.com								https://v9.daayee.com/yyv9/202407/31/Hini0auNjZ18/video/index.m3u8
@@ -82,7 +81,7 @@ U酷uk>ukzy.ukubf4.com 							https://ukzy.ukubf4.com/20240927/iUiy9dv0/index.m3
 mytv											https://pl2.qcheng.cc/Cache/mytv/7dbe266060b45794f455e270fe167581.m3u8?token=d3b64486f454862437377776e497a42755c6560325365524e6a44486675454d645673444f273643665078794
 ppvod											https://ppvod02.q19jcg.com/splitOut/20250109/591630/V2025010914211967825591630/index.m3u8?auth_key=1736788571-39d04efd7e8240c4a16a1d392c7781ab-0-5849673d2e7500316cd9a456697b5a99
 如意 ry>cdn.ryplay11.com							https://cdn.ryplay11.com/20241228/104971_96db027a/index.m3u8
-豆瓣>vodcnd02.ktprods.com						https://vodcnd02.ktprods.com/20241211/CMvk1jg2/index.m3u8
+豆瓣DB>vodcnd02.ktprods.com						https://vodcnd02.ktprods.com/20241211/CMvk1jg2/index.m3u8 https://caiji.dbzy.tv/api.php/provide/vod/
 魔爪>mzm3u8.vip									https://mzm3u8.vip/20250209/v3GGX6tV/index.m3u8
 B>												https://onvideo-safety.ssscdn.com/ksc2/
 CK>												https://shandong2.bulkcdn.top/videos/202502/07/67a59b5aadab947f4569796b/b7g790/index.m3u8
@@ -107,6 +106,19 @@ RY备用>>如意#
 https://cdn.ryplay11.com/20250714/181555_239df601/index.m3u8
 LZ备用>>量子#
 https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
+
+光速 GS云 https://v.gsuus.com/play/qaQV6PYb/index.m3u8
+金鹰 JY云 https://hd.ijycnd.com/play/5eV17X1d/index.m3u8
+红牛 HN云 https://hn.bfvvs.com/play/ZdPRzOna/index.m3u8
+新浪 XL云 https://play.xluuss.com/play/PdRWPQRe/index.m3u8
+爱坤 IK云 https://bfikuncdn.com/20250726/qR8bhgye/914kb/hls/index.m3u8
+无尽 WJ云 https://v12.gggread.com/wjv12/202507/26/bsDFLXLBf984/video/1000k_720/hls/index.m3u8
+量子 LZ云 https://v.lzcdn25.com/20250726/3255_2d23f6bb/2000k/hls/mixed.m3u8
+非凡 FF云 https://vip.ffzy-plays.com/20250726/43540_bf43a197/3000k/hls/mixed.m3u8
+卧龙 WL云 https://cdn.wlcdn88.com:777/40d84280/index.m3u8
+极速 JS云 https://vv.jisuzyv.com/play/BeX3rZmd/index.m3u8
+索尼 SN云 https://v13.yuglf.com/202507/26/jFBbGz1uVj19/video/2000k_1080/hls/index.m3u8
+
 ~[排序:如意>天涯>黑木耳>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>OK>360>]",
 
 
@@ -121,7 +133,7 @@ https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
 	tab_order:['TK线路','LZ线路**','SD线路','SN线路','iK线路','GQ线路','SO线路','FM线路','LS线路','FS线路','BF线路','KK线路','WL线路','UK线路','WJ线路','BD线路','HN线路'],//线路顺序,按里面的顺序优先，没写的依次排后面
 	tab_rename:{'FF线路':'🌸非凡','LZ线路':'🌸量子','SN线路':'🌸索尼','bfzym3u8':'暴风','1080zyk':'优质','kuaikan':'快看','lzm3u8':'量子','ffm3u8':'非凡','snm3u8':'索尼','qhm3u8':'奇虎','haiwaikan':'海外看',
 	'gsm3u8':'光速','zuidam3u8':'最大','bjm3u8':'八戒','wolong':'卧龙','xlm3u8':'新浪','yhm3u8':'樱花','tkm3u8':'🌸天空','jsm3u8':'极速','wjm3u8':'无尽','sdm3u8':'🌸闪电','kcm3u8':'快车','jinyingm3u8':'金鹰',
-	'fsm3u8':'飞速','tpm3u8':'淘片','lem3u8':'鱼乐','dbm3u8':'百度','tomm3u8':'番茄','ukm3u8':'优酷','ikm3u8':'爱坤','hnzym3u8':'红牛资源','hnm3u8':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星',
+	'fsm3u8':'飞速','tpm3u8':'淘片','lem3u8':'鱼乐','dbm3u8':'豆瓣','tomm3u8':'番茄','ukm3u8':'优酷','ikm3u8':'爱坤','hnzym3u8':'红牛资源','hnm3u8':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星',
 	'hhm3u8':'豪华','kbm3u8':'快播'},卧龙wl
 
 优质资源 
@@ -129,7 +141,7 @@ https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
 /*
 '1080zyk': '优质','lzm3u8': '量子','ffm3u8': '非凡','haiwaikan': '海外看','gsm3u8': '光速','zuidam3u8': '最大','bfzym3u8': '暴风','kuaikan': '快看',
 'bjm3u8': '八戒','snm3u8': '索尼','wolong': '卧龙','xlm3u8': '新浪','yhm3u8': '樱花','tkm3u8': '天空','jsm3u8': '极速','wjm3u8': '无尽',
-'sdm3u8': '闪电','kcm3u8': '快车','jinyingm3u8': '金鹰','fsm3u8': '飞速','tpm3u8': '淘片','lem3u8': '鱼乐','dbm3u8': '百度','tomm3u8': '番茄',
+'sdm3u8': '闪电','kcm3u8': '快车','jinyingm3u8': '金鹰','fsm3u8': '飞速','tpm3u8': '淘片','lem3u8': '鱼乐','dbm3u8': '豆瓣','tomm3u8': '番茄',
 'ukm3u8': '优酷','ikm3u8': '爱坤','hnzym3u8': '红牛资源','hnm3u8': '红牛','68zy_m3u8': '68','kdm3u8': '酷点','bdxm3u8': '北斗星','qhm3u8': '奇虎',
 'hhm3u8': '豪华','kbm3u8': '快播' LG 蓝光 无尽 wj 丫丫 yy, 'rym3u8': "如意"
 */
@@ -143,6 +155,42 @@ https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
 <meta property="og:type" content="article">
 <div class="topic">《吞天記》.風青陽</div><br>
 <hr><div class="title">$1</div><hr>
+
+//悟空影院
+//https://www.wkdy.org/fenlei/26.html
+//
+
+//网飞猫
+//https://www.ncat21.com/show/2--中国大陆---3-1.html
+//
+
+//青苹果影院
+//http://www.radiation.cc/red/13.html
+//红牛云资源>>红牛#光速云资源>>光速#量子云资源>>量子#百度云资源>>百度#无尽云资源>>无尽#非凡云资源>>非凡#
+
+//飞流视频
+//https://www.flixflop.com/explore/151438147794763777?page=1&area=151458081811726351
+//黑木耳 量子
+
+//Inmi
+//https://www.inmi.app/show/0CCCCS-.html
+//如意 黑木耳 爱坤
+
+//KimiVOD
+//https://kimivod.com/vod/show/id/6.html
+//黑木耳
+
+//MoMoVOD
+//https://momovod.app/show/13.html
+//卧龍雲極速雲索尼雲優質雲閃電雲無盡雲
+
+//新视觉影院
+//https://pingfenxian.com/xsjvodshow/13-----------.html
+//https://6080z.com/voddetail/156954.html
+//https://www.senlinlv88.com/video/V60RBKpN.html
+//https://www.nbshw.com/vodshow/dianshiju-----------.html
+//
+
 
 //爱外剧
 //https://www.aiwaiju.cc/vodshow/id/guochanju.html

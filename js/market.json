@@ -6,7 +6,7 @@
   },
   { "name": "🌈推薦",
     "list": [
-
+//通用版
       {
         "name": "🌈影视仓_5.0.42(OK)",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.42.apk",
@@ -14,6 +14,18 @@
         "version": "通用版"
       },
 	  
+      {
+        "name": "🌈影视仓电视v6.1.5去顶",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-6.1.5-32位_去顶部红字.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },	  
+      {
+        "name": "🌈影视仓电视v6.1.5",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-6.1.5-32位.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },	  
       {
         "name": "🌈影视仓电视v6.1.4(141)",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-6.4.1-exo141.apk",
@@ -47,23 +59,37 @@
         "version": "通用版"
       },
 	  
+//内置版
 
+      {
+        "name": "🎯FongMi影视电视 4.0.7",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视电视版_4.0.7（py）.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "内置版"
+      },
+      {
+        "name": "🎯FongMi影视机版 4.0.7",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视手机版_4.0.7（py）.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "内置版"
+      },
+	  
       {
         "name": "🎯多多影音v6.1.4_内置版",
         "url": "http://williamc.tplinkdns.com/apk/apk/多多影音_6.1.4_内置版.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
-        "version": "通用版"
+        "version": "内置版"
       },
 	  
       {
         "name": "🎯幸福影视仓v6.1.4_内置版",
         "url": "http://williamc.tplinkdns.com/apk/apk/幸福年年影视仓_6.1.4_内置版.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
-        "version": "通用版"
+        "version": "内置版"
       },
 	  
 
-
+//通用版
 	  {
         "name": "🎬Taka_20250706",
         "url": "http://williamc.tplinkdns.com/apk/apk/Taka_20250706-generic.apk",
@@ -122,8 +148,8 @@
         "version": "通用版"
       },	
       {
-        "name": "🌍快点投屏_v1.6.2.1",
-        "url": "http://williamc.tplinkdns.com/apk/apk/快点投屏_v1.6.2.1.apk",
+        "name": "🔊🎧网易云音乐_解锁版",
+        "url": "http://williamc.tplinkdns.com/apk/apk/网易云音乐_解锁版.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
         "version": "通用版"
       },	  
