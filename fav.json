@@ -22,13 +22,13 @@
 
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/douban.js"},
 //{"key":"豆","name":"【ケンのテレビ】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-{
-    "key": "6e31126e4b7e6db33dcde3d30e309463",
-    "name": "最大资源"
-    "type": 1,
-    "api": "https://zuidazy.me/api.php/provide/vod/"
-}, 
+//{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
+//{
+  //  "key": "6e31126e4b7e6db33dcde3d30e309463",
+    //"name": "最大资源"
+    //"type": 1,
+    //"api": "https://zuidazy.me/api.php/provide/vod/"
+//}, 
   
 //{"key":"dr_搜狗","name":"🌺搜狗🌺","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/sogou.js"},
 //{"key":"js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js","type":3},
