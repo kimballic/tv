@@ -21,7 +21,7 @@
 "sites":[
 
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/douban.js"},
-{"key":"csp_douban","name": "🌺豆瓣評分🌺","type": 3,"api":"csp_DouDouGuard","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆","name":"【ケンのテレビ】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
 {
     "key": "6e31126e4b7e6db33dcde3d30e309463",
