@@ -31,12 +31,7 @@
 {"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "playUrl":"https://svip.ffzyplay.com/?url=", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 //福利
-{"key":"福利","name":"🌺🌺福利🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"❤91麻豆","name":"❤麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"❤探探资源","name":"❤探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"❤色猫资源","name":"❤色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"❤新香蕉资源","name":"❤新香蕉福利","api":"csp_xBPQ","ext":"https://www.qiqiguai.cn/tv/2/PG/lib/新香蕉中文字幕.json","filterable":1,"jar":"https://www.qiqiguai.cn/tv/2/PG/lib/Yoursmile2.jar","quickSearch":1,"searchable":1,"type":3},
-{"key":"❤环亚资源","name":"❤环亚福利","api":"http://wmcj8.com/inc/sapi.php?ac=videolist","filterable":0,"quickSearch":1,"searchable":1,"type":0},
 {"key":"❤番号资源","name":"❤番号福利","api":"http://fhapi9.com/api.php/provide/vod/","quickSearch":0,"searchable":0,"type":1},
 {"key":"❤乐播福利","name":"❤乐播福利","api":"https://lbapi9.com/api.php/provide/vod/","filterable":1,"quickSearch":1,"searchable":1,"type":1}
 ],
