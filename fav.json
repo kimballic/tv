@@ -15,21 +15,11 @@
 //"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
 //"线路标题":"🌸+<span>&&</small>[排序:黑木耳>量子>非凡>华为吧>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
 //[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
-{"spider":"https://raw.githubusercontent.com/kimballic/tvbox2/refs/heads/master/jar/fan2.txt;md5;69c44556911acb40c53846bd52873fee","wallpaper":"",
-//{"spider":"https://raw.githubusercontent.com/kimballic/tvbox2/refs/heads/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847","wallpaper":"",
-
+{"spider":"https://raw.githubusercontent.com/kimballic/tvbox2/refs/heads/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847","wallpaper":"",
 "sites":[
 
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/douban.js"},
-//{"key":"豆","name":"【ケンのテレビ】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
-//{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-//{
-  //  "key": "6e31126e4b7e6db33dcde3d30e309463",
-    //"name": "最大资源"
-    //"type": 1,
-    //"api": "https://zuidazy.me/api.php/provide/vod/"
-//}, 
-  
+{"key": "csp_douban","name": "🌺豆瓣評分🌺","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"dr_搜狗","name":"🌺搜狗🌺","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/sogou.js"},
 //{"key":"js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js","type":3},
 //{"key":"js_奇艺","name":"☘️奇艺评分☘️","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/aiqiyi.js","jar":"https://weixine.net/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
