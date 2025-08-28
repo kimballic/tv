@@ -15,27 +15,32 @@
 //"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
 //"线路标题":"🌸+<span>&&</small>[排序:黑木耳>量子>非凡>华为吧>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
 //[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
-{"spider":"https://raw.githubusercontent.com/kimballic/tvbox2/refs/heads/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847","wallpaper":"",
+{"spider":"https://raw.githubusercontent.com/kimballic/box/refs/heads/main/jack/spider.jar",
 "sites":[
 
 
-{"key":"豆","name":"【ケンのテレビ】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
-    {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"豆","name":"🌸【ケンのテレビ】","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+    {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {
         "key": "6e31126e4b7e6db33dcde3d30e309463",
-        "name": "最大资源",
+        "name": "⚡️最大",
         "type": 1,
-        "api": "https://zuidazy.me/api.php/provide/vod/"
-
+        "api": "https://zuidazy.me/api.php/provide/vod/",
+        "categories":[
+            "国产剧","韩剧","日剧","港剧","台剧","欧美剧",
+            "大陆综艺","日韩综艺","港台综艺","欧美综艺",
+            "国产动漫","日韩动漫","动画片",
+            "港台三级","韩国伦理","日本伦理","写真热舞",
+            "4K电影","邵氏电影","Netflix电影","Netflix自制剧"]
     },        
 //{"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "playUrl":"https://svip.ffzyplay.com/?url=", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 //{"key":"api_非凡资源🎯","name":"🎯非凡--资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_非凡资源🎯","name":"🎯非凡--资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"api_非凡资源🎯","name":"🍏非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 //福利
-{"key":"❤91麻豆","name":"❤麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"❤番号资源","name":"❤番号福利","api":"http://fhapi9.com/api.php/provide/vod/","quickSearch":0,"searchable":0,"type":1},
-{"key":"❤乐播福利","name":"❤乐播福利","api":"https://lbapi9.com/api.php/provide/vod/","filterable":1,"quickSearch":1,"searchable":1,"type":1}
+{"key":"❤91麻豆","name":"🔞麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"❤番号资源","name":"🔞番号福利","api":"http://fhapi9.com/api.php/provide/vod/","quickSearch":0,"searchable":0,"type":1},
+{"key":"❤乐播福利","name":"🔞乐播福利","api":"https://lbapi9.com/api.php/provide/vod/","filterable":1,"quickSearch":1,"searchable":1,"type":1}
 ],
     
 "parses":[
