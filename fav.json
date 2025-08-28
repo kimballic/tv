@@ -19,13 +19,14 @@
 "sites":[
 
 
-{"key":"豆","name":"🌸【ケンのテレビ】","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"豆","name":"✨️✨️【ケンのテレビ】","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {
         "key": "6e31126e4b7e6db33dcde3d30e309463",
         "name": "🎯最大",
         "type": 1,
         "api": "https://zuidazy.me/api.php/provide/vod/",
+        "playerType":3,
         "categories":[
             "国产剧","韩剧","日剧","港剧","台剧","欧美剧",
             "大陆综艺","日韩综艺","港台综艺","欧美综艺",
@@ -35,7 +36,7 @@
     },        
 //{"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "playUrl":"https://svip.ffzyplay.com/?url=", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 //{"key":"api_非凡资源🎯","name":"🎯非凡--资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_非凡资源🎯","name":"🍏非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"}
+{"key":"api_非凡资源🎯","name":"🌸非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"}
 
 //福利
 //{"key":"❤91麻豆","name":"🔞麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
