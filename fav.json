@@ -35,7 +35,7 @@
             "4K电影","邵氏电影","Netflix电影","Netflix自制剧"]
     },
     
-{"key":"api_非凡资源🎯","name":"🌸. 非凡","type":1,"api":"https://api.ffzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"changeable": 1,
+{"key":"api_非凡资源🎯","name":"🌸非凡","type":1,"api":"https://api.ffzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"changeable": 1,
 			"categories": [
 				"国产剧",
 			    "香港剧",
@@ -55,21 +55,7 @@
 				"港台动漫",
 				"海外动漫",
                 "动作片",
-                "喜剧片",
-                                "爱情片",
-                                "科幻片",
-                                "恐怖片",
-                                "剧情片",
-                                "战争片",
-                                "灾难片",
-                                "犯罪片",
-                                "悬疑片",
-                                "惊悚片",
-                                "奇幻片",
-                                "冒险片",
-                                "武侠片",
-				"记录片"
-                                 ]}
+                "喜剧片"]}
 //http://cj.ffzyapi.com/api.php/provide/vod/
 //福利
 //{"key":"❤91麻豆","name":"🔞麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -91,10 +77,9 @@
 
 "rules":[
 
-{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"非凡","hosts":["ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"暴风","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"量子广告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"非凡广告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
+{"name":"量子广告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 //"ads":["iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
@@ -241,50 +226,5 @@
         "kxv.kxvuv.com",
         "cdn.7nsc.cn",
         "76065.com"
-    ],
-    "parseAds": [
-        "0866a0a33e897c6b69d927db8a341e1d",
-        "111.m3u8",
-        "1658315755.m3u8",
-        "20230103dsafdfjhd.m3u8",
-        "2420fc61fb66a16ae22f08cecbd2ff43",
-        "25e538d6ef7c13189646539ab52e5eb4",
-        "44a44566-d7b7-40eb-8b4b-52c3d7d04925.mp4",
-        "606ae058-6c0a-41b8-8711-7e87b660b1f6.m3u8",
-        "88aa085b25d90033a366bf3390289a119bddf429.m3u8",
-        "95d0416b437645942b41de9ec06e63c6.mp4",
-        "a9c81f35-9f12-4242-b65c-cfbb0100101d.mp4",
-        "ae570ecc419c4ac1b227b00e0d6ec138.mp4",
-        "aiku.m3u8",
-        "cache.json.icu",
-        "d740175e67dd70fadfb9d0c4384b4c59",
-        "daoqitixing.m3u8",
-        "fangdao",
-        "fca02fec-85cc-4c03-91f9-29e5957c18c4.mp4",
-        "fd.m3u8",
-        "fd2.m3u8",
-        "feiyun.m3u8",
-        "https://1231231/",
-        "https://api.nxflv.com/Cache/M3u8/",
-        "https://cdn.oss-cn-m3u8.tv-nanjing-chengdu.myqcloud.com.zh188.net",
-        "https://hls.banyung.vip/m3u8.php",
-        "https://k.json.icu/m3u8/",
-        "https://txmov2.a.kwimgs.com/upic/2021/12/08/19/",
-        "https://v9-xg-web-pc.ixigua.com/",
-        "id190.tpddns.cn",
-        "jxjson.cf.m3u8",
-        "milai.mp4",
-        "tjx.m3u8",
-        "txmov2.a.yximgs.com",
-        "xiaohai.mp4",
-        "xiaoxin.m3u8",
-        "xyfd.m3u8",
-        "xyqf.m3u8",
-        "xyrx.mp4",
-        "yuncache.52e.cc",
-        "yuncache.hao7788.cc",
-        "yuncache.hqmbsh.com",
-        "yuncache.hs-mould.cn",
-        "yyyyy.mp4"
     ]
 }
