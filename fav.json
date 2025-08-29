@@ -33,10 +33,10 @@
             "国产动漫","日韩动漫","动画片",
             "港台三级","韩国伦理","日本伦理","写真热舞",
             "4K电影","邵氏电影","Netflix电影","Netflix自制剧"]
-    },        
+    }
 //{"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "playUrl":"https://svip.ffzyplay.com/?url=", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 //{"key":"api_非凡资源🎯","name":"🎯非凡--资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json", "jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_非凡资源🎯","name":"🌸非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json","jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"}
+//{"key":"api_非凡资源🎯","name":"🌸非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json","jar":"http://williamc.tplinkdns.com/iptv/js/HCCX.jar"}
 //http://cj.ffzyapi.com/api.php/provide/vod/
 //福利
 //{"key":"❤91麻豆","name":"🔞麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
