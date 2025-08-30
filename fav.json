@@ -55,8 +55,42 @@
 				"港台动漫",
 				"海外动漫",
                 "动作片",
-                "喜剧片"]}
-//http://cj.ffzyapi.com/api.php/provide/vod/
+                "喜剧片"]},
+    {
+      "key": "嗷呜剧爸爸",
+      "name": "嗷呜剧爸爸",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jubaba.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "腾讯",
+      "name": "腾讯",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "./drpy_js/tx.js"
+    },
+    {
+      "key": "腾讯1",
+      "name": "腾讯1",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/tx.js"
+    },
+  {
+      "key": "77ys",
+      "name": "77影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://tvbox.catvod.com/js/77ys.json"
+    }
 //福利
 //{"key":"❤91麻豆","name":"🔞麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 //{"key":"❤番号资源","name":"🔞番号福利","api":"http://fhapi9.com/api.php/provide/vod/","quickSearch":0,"searchable":0,"type":1},
