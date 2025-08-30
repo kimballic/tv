@@ -69,15 +69,16 @@
       "key": "腾讯",
       "name": "腾讯",
       "type": 3,
-      "playerType": "2",
+      "playerType": "3",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "./drpy_js/tx.js"
+      "ext": "https://tvbox.catvod.com/js/tx.js"
+      //"ext": "./drpy_js/tx.js"
     },
     {
       "key": "腾讯1",
       "name": "腾讯1",
       "type": 3,
-      "playerType": "2",
+      "playerType": "3",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/tx.js"
     },
