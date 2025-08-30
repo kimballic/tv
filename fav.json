@@ -71,8 +71,8 @@
       "type": 3,
       "playerType": "3",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/tx.js"
-      //"ext": "./drpy_js/tx.js"
+
+      "ext": "https://raw.githubusercontent.com/kimballic/265/refs/heads/main/drpy_js/tx.js"
     },
     {
       "key": "腾讯1",
