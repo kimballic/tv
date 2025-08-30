@@ -22,7 +22,7 @@
 {"key":"豆","name":"✨️✨️【ケンのテレビ】","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
     {
-        "key": "6e31126e4b7e6db33dcde3d30e309463",
+        "key": "zuid",
         "name": "⚡️最大",
         "type": 1,
         "api": "https://zuidazy.me/api.php/provide/vod/",
