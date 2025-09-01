@@ -70,6 +70,9 @@
       "name": "腾讯",
       "type": 3,
       "playerType": "3",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/kimballic/265/refs/heads/main/drpy_js/tx.js"
     },
